@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 43a43b376a442e745ba32d15d760c683
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boxwall1:boxWall2:joint1
+    100002: boxwall1:boxWall2:joint10
+    100004: boxwall1:boxWall2:joint10 1
+    100006: boxwall1:boxWall2:joint11
+    100008: boxwall1:boxWall2:joint2
+    100010: boxwall1:boxWall2:joint2 1
+    100012: boxwall1:boxWall2:joint3
+    100014: boxwall1:boxWall2:joint3 1
+    100016: boxwall1:boxWall2:joint4
+    100018: boxwall1:boxWall2:joint4 1
+    100020: boxwall1:boxWall2:joint5
+    100022: boxwall1:boxWall2:joint5 1
+    100024: boxwall1:boxWall2:joint6
+    100026: boxwall1:boxWall2:joint6 1
+    100028: boxwall1:boxWall2:joint7
+    100030: boxwall1:boxWall2:joint7 1
+    100032: boxwall1:boxWall2:joint8
+    100034: boxwall1:boxWall2:joint8 1
+    100036: boxwall1:boxWall2:joint9
+    100038: boxwall1:boxWall2:joint9 1
+    100040: boxwall2:boxWall2:joint1
+    100042: boxwall2:boxWall2:joint10
+    100044: boxwall2:boxWall2:joint10 1
+    100046: boxwall2:boxWall2:joint11
+    100048: boxwall2:boxWall2:joint2
+    100050: boxwall2:boxWall2:joint2 1
+    100052: boxwall2:boxWall2:joint3
+    100054: boxwall2:boxWall2:joint3 1
+    100056: boxwall2:boxWall2:joint4
+    100058: boxwall2:boxWall2:joint4 1
+    100060: boxwall2:boxWall2:joint5
+    100062: boxwall2:boxWall2:joint5 1
+    100064: boxwall2:boxWall2:joint6
+    100066: boxwall2:boxWall2:joint6 1
+    100068: boxwall2:boxWall2:joint7
+    100070: boxwall2:boxWall2:joint7 1
+    100072: boxwall2:boxWall2:joint8
+    100074: boxwall2:boxWall2:joint8 1
+    100076: boxwall2:boxWall2:joint9
+    100078: boxwall2:boxWall2:joint9 1
+    100080: boxwall3:boxWall2:joint1
+    100082: boxwall3:boxWall2:joint10
+    100084: boxwall3:boxWall2:joint10 1
+    100086: boxwall3:boxWall2:joint11
+    100088: boxwall3:boxWall2:joint2
+    100090: boxwall3:boxWall2:joint2 1
+    100092: boxwall3:boxWall2:joint3
+    100094: boxwall3:boxWall2:joint3 1
+    100096: boxwall3:boxWall2:joint4
+    100098: boxwall3:boxWall2:joint4 1
+    100100: boxwall3:boxWall2:joint5
+    100102: boxwall3:boxWall2:joint5 1
+    100104: boxwall3:boxWall2:joint6
+    100106: boxwall3:boxWall2:joint6 1
+    100108: boxwall3:boxWall2:joint7
+    100110: boxwall3:boxWall2:joint7 1
+    100112: boxwall3:boxWall2:joint8
+    100114: boxwall3:boxWall2:joint8 1
+    100116: boxwall3:boxWall2:joint9
+    100118: boxwall3:boxWall2:joint9 1
+    100120: boxwall:boxWall2:joint1
+    100122: boxwall:boxWall2:joint10
+    100124: boxwall:boxWall2:joint10 1
+    100126: boxwall:boxWall2:joint11
+    100128: boxwall:boxWall2:joint2
+    100130: boxwall:boxWall2:joint2 1
+    100132: boxwall:boxWall2:joint3
+    100134: boxwall:boxWall2:joint3 1
+    100136: boxwall:boxWall2:joint4
+    100138: boxwall:boxWall2:joint4 1
+    100140: boxwall:boxWall2:joint5
+    100142: boxwall:boxWall2:joint5 1
+    100144: boxwall:boxWall2:joint6
+    100146: boxwall:boxWall2:joint6 1
+    100148: boxwall:boxWall2:joint7
+    100150: boxwall:boxWall2:joint7 1
+    100152: boxwall:boxWall2:joint8
+    100154: boxwall:boxWall2:joint8 1
+    100156: boxwall:boxWall2:joint9
+    100158: boxwall:boxWall2:joint9 1
+    100160: gift
+    100162: giftJnts
+    100164: //RootNode
+    100166: joint1
+    100168: pasted__giftTopJnt
+    100170: pasted__giftTopJnt1
+    100172: pasted__giftTopJnt2
+    100174: pasted__giftTopJnt3
+    100176: pasted__giftTopJnt4
+    400000: boxwall1:boxWall2:joint1
+    400002: boxwall1:boxWall2:joint10
+    400004: boxwall1:boxWall2:joint10 1
+    400006: boxwall1:boxWall2:joint11
+    400008: boxwall1:boxWall2:joint2
+    400010: boxwall1:boxWall2:joint2 1
+    400012: boxwall1:boxWall2:joint3
+    400014: boxwall1:boxWall2:joint3 1
+    400016: boxwall1:boxWall2:joint4
+    400018: boxwall1:boxWall2:joint4 1
+    400020: boxwall1:boxWall2:joint5
+    400022: boxwall1:boxWall2:joint5 1
+    400024: boxwall1:boxWall2:joint6
+    400026: boxwall1:boxWall2:joint6 1
+    400028: boxwall1:boxWall2:joint7
+    400030: boxwall1:boxWall2:joint7 1
+    400032: boxwall1:boxWall2:joint8
+    400034: boxwall1:boxWall2:joint8 1
+    400036: boxwall1:boxWall2:joint9
+    400038: boxwall1:boxWall2:joint9 1
+    400040: boxwall2:boxWall2:joint1
+    400042: boxwall2:boxWall2:joint10
+    400044: boxwall2:boxWall2:joint10 1
+    400046: boxwall2:boxWall2:joint11
+    400048: boxwall2:boxWall2:joint2
+    400050: boxwall2:boxWall2:joint2 1
+    400052: boxwall2:boxWall2:joint3
+    400054: boxwall2:boxWall2:joint3 1
+    400056: boxwall2:boxWall2:joint4
+    400058: boxwall2:boxWall2:joint4 1
+    400060: boxwall2:boxWall2:joint5
+    400062: boxwall2:boxWall2:joint5 1
+    400064: boxwall2:boxWall2:joint6
+    400066: boxwall2:boxWall2:joint6 1
+    400068: boxwall2:boxWall2:joint7
+    400070: boxwall2:boxWall2:joint7 1
+    400072: boxwall2:boxWall2:joint8
+    400074: boxwall2:boxWall2:joint8 1
+    400076: boxwall2:boxWall2:joint9
+    400078: boxwall2:boxWall2:joint9 1
+    400080: boxwall3:boxWall2:joint1
+    400082: boxwall3:boxWall2:joint10
+    400084: boxwall3:boxWall2:joint10 1
+    400086: boxwall3:boxWall2:joint11
+    400088: boxwall3:boxWall2:joint2
+    400090: boxwall3:boxWall2:joint2 1
+    400092: boxwall3:boxWall2:joint3
+    400094: boxwall3:boxWall2:joint3 1
+    400096: boxwall3:boxWall2:joint4
+    400098: boxwall3:boxWall2:joint4 1
+    400100: boxwall3:boxWall2:joint5
+    400102: boxwall3:boxWall2:joint5 1
+    400104: boxwall3:boxWall2:joint6
+    400106: boxwall3:boxWall2:joint6 1
+    400108: boxwall3:boxWall2:joint7
+    400110: boxwall3:boxWall2:joint7 1
+    400112: boxwall3:boxWall2:joint8
+    400114: boxwall3:boxWall2:joint8 1
+    400116: boxwall3:boxWall2:joint9
+    400118: boxwall3:boxWall2:joint9 1
+    400120: boxwall:boxWall2:joint1
+    400122: boxwall:boxWall2:joint10
+    400124: boxwall:boxWall2:joint10 1
+    400126: boxwall:boxWall2:joint11
+    400128: boxwall:boxWall2:joint2
+    400130: boxwall:boxWall2:joint2 1
+    400132: boxwall:boxWall2:joint3
+    400134: boxwall:boxWall2:joint3 1
+    400136: boxwall:boxWall2:joint4
+    400138: boxwall:boxWall2:joint4 1
+    400140: boxwall:boxWall2:joint5
+    400142: boxwall:boxWall2:joint5 1
+    400144: boxwall:boxWall2:joint6
+    400146: boxwall:boxWall2:joint6 1
+    400148: boxwall:boxWall2:joint7
+    400150: boxwall:boxWall2:joint7 1
+    400152: boxwall:boxWall2:joint8
+    400154: boxwall:boxWall2:joint8 1
+    400156: boxwall:boxWall2:joint9
+    400158: boxwall:boxWall2:joint9 1
+    400160: gift
+    400162: giftJnts
+    400164: //RootNode
+    400166: joint1
+    400168: pasted__giftTopJnt
+    400170: pasted__giftTopJnt1
+    400172: pasted__giftTopJnt2
+    400174: pasted__giftTopJnt3
+    400176: pasted__giftTopJnt4
+    2100000: blinn1
+    4300000: gift
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: gift
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

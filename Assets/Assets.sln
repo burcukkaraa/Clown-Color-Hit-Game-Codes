@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assets.Plugins", "Assets.Plugins.csproj", "{D6DA325D-3262-E7C6-A3CE-BADC124BC374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assets.Editor.Plugins", "Assets.Editor.Plugins.csproj", "{D52A1EDA-468F-4229-97A0-816B13B4F388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DA325D-3262-E7C6-A3CE-BADC124BC374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DA325D-3262-E7C6-A3CE-BADC124BC374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DA325D-3262-E7C6-A3CE-BADC124BC374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DA325D-3262-E7C6-A3CE-BADC124BC374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52A1EDA-468F-4229-97A0-816B13B4F388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52A1EDA-468F-4229-97A0-816B13B4F388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52A1EDA-468F-4229-97A0-816B13B4F388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52A1EDA-468F-4229-97A0-816B13B4F388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
